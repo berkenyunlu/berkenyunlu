@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berken Azad Yünlü</h1>
-<h3 align="center">.Net Core Back-end Developer</h3>
+<h3 align="center">.Net Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkenyunlu&label=Profile%20views&color=0e75b6&style=flat" alt="berkenyunlu" /> </p>
 
